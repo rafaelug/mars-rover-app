@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# DECSKILL project test
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+this project was designed as part of DECSKILL interviewing process, to test please run `npm start`.
+
+Hope you like guys!!
 
 ## Available Scripts
 
